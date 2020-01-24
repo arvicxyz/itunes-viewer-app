@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">iTunesViewer</string>
+    <string name="app_name">iTunes Viewer</string>
+    <string name="default_content_desc_text">default</string>
+    <string name="not_available_text">[NO TRACK NAME]</string>
+    <string name="free_text">FREE</string>
 </resources>
